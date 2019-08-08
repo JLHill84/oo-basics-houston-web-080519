@@ -5,7 +5,8 @@ class Book
     end
     
     def title
-    end
+  end
+  
 end
 
 myBook = Book.new("And Then There Were None","Agatha Christie")
