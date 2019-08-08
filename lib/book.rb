@@ -1,9 +1,9 @@
 class Book
   
-  def initialize(title)
+  def initialize(title, auth, pages, genre)
     @title = title
     end
 end
 
-myBook = Book.new("And Then There Were None")
+myBook = Book.new("And Then There Were None",)
 
