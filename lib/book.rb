@@ -9,7 +9,9 @@ class Book
     @title
   end
   
-  def
+  def auth
+    @auth
+  end
   
 end
 
