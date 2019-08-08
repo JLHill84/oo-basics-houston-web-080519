@@ -15,4 +15,5 @@ class Book
 end
 
 myBook = Book.new("And Then There Were None")
+myBook.author = "Agatha Christie"
 
