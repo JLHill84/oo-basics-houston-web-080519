@@ -2,7 +2,6 @@ class Book
   
   def initialize(title)
     @title = title
-    @auth = auth
   end
     
   def title
