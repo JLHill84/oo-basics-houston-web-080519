@@ -2,11 +2,10 @@ class Book
   
   def initialize(title)
     @title = title
+  end
     
-    end
-    
-    def title
-      title = @title
+  def title
+    @title
   end
   
 end
